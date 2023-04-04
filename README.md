@@ -1,4 +1,4 @@
-Habit Tracker React App ✔✔✔
+Habit Tracker React App
 
 A habit tracker app project in which user can add habit and track all the previous six days status .
 
